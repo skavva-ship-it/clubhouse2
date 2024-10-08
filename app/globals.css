@@ -70,24 +70,8 @@
   font-family: "Roboto", sans-serif;
   font-weight: 500;
   font-style: normal;
-  color: rgb(0, 0, 0);
+  color: rgb(255, 255, 255);
   text-shadow: rgb(255, 255, 255) 0px 0px 39px;
   position: relative; 
   z-index: 20; 
-}
-
-.proteculev2 {
-  opacity: 0; 
-  font-size: 200px;
-  font-family: "Roboto", sans-serif;
-  font-weight: 500;
-  font-style: normal;
-  color: rgb(245, 118, 64);
-  text-shadow: rgb(245, 118, 64) 0px 0px 39px;
-  position: relative; 
-  z-index: 20; 
-}
-
-.order-one{
-  
 }
