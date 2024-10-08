@@ -12,7 +12,7 @@ const config: Config = {
   		colors: {
         clubhouseOrange: '#f57640' ,
         clubhouseBlack: '#000000',
-  			background: '#000000',
+  			background: '#ffffff',
   			foreground: 'hsl(var(--foreground))',
   			card: {
   				DEFAULT: 'hsl(var(--card))',
